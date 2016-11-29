@@ -66,24 +66,6 @@ Development skills:
 [Command Line Essentials: Git Bash for Windows](https://stackskills.com/p/git-bash) – [Stackskills.com](https://stackskills.com/)  
 
 
-## Work Experience
-### – as a teacher of English as a foreign language
-#### Kaplan International, Brighton, UK (Jul 2016)   
-Preparation of lessons, teaching and assessment of students aged 12 – 17 , supervision 	at all times, participation and preparation of non-academic activities.  
-#### Royal Spa English, Tunbridge Wells, UK (Jun 2016-Jul 2016)
-Preparation of lessons, teaching and assessment of students of different nationalities 	aged 14-17. Supervision of extra-curricular activities.  
-#### Cambridge Education and training, Nizhnevartovsk, Russia (Sep 2011-May 2016)
-Preparation of lessons, teaching and assessment of students aged 10 – adult with beginner to advanced English.
-#### Bell Academy, Bedgebury, UK (May 2012-Jul 2012)
-Preparation of lessons, teaching and assessment of students aged 12 – 17 with beginner to advanced English, supervision at all times, participation and preparation of non-academic activities.
-#### British Study Centres, Ardingly, UK (Jun 2011-Aug 2011)
-Preparation of lessons, teaching and assessment of students aged 12 – 17 with beginner to advanced English, supervision at all times, participation and preparation of non-academic activities.
-### – as a reservations executive
-#### TUI, Chamonix, France (Oct 2010-Apr 2011)
-Coordination of communication, in English and French, between UK and Ireland-based agents and accommodation providers in the Alps and Pyrenees.
-### – as a shop assistant
-#### Anthonioz Ski, Samoëns, France (Jan-Apr 2009)
-Providing customers of various nationalities with help and advice when buying skiing equipment and accessories. French was the working language and the most common language spoken with clients.
 ## Formal Education
 ### Privet Language School, Kaliningrad, Russia (Aug 2012 and Aug 2014)
 2 x 3-week Russian language courses
@@ -102,6 +84,26 @@ Included one year abroad
 A-levels: French (A), Spanish (B), Chemistry (B)  
 AS-levels: Maths (A), Biology (C)  
 11 x GSCEs (A*) – (B)
+
+## Work Experience
+### – as a teacher of English as a foreign language
+#### Kaplan International, Brighton, UK (Jul 2016)   
+Preparation of lessons, teaching and assessment of students aged 12 – 17 , supervision 	at all times, participation and preparation of non-academic activities.  
+#### Royal Spa English, Tunbridge Wells, UK (Jun 2016-Jul 2016)
+Preparation of lessons, teaching and assessment of students of different nationalities 	aged 14-17. Supervision of extra-curricular activities.  
+#### Cambridge Education and training, Nizhnevartovsk, Russia (Sep 2011-May 2016)
+Preparation of lessons, teaching and assessment of students aged 10 – adult with beginner to advanced English.
+#### Bell Academy, Bedgebury, UK (May 2012-Jul 2012)
+Preparation of lessons, teaching and assessment of students aged 12 – 17 with beginner to advanced English, supervision at all times, participation and preparation of non-academic activities.
+#### British Study Centres, Ardingly, UK (Jun 2011-Aug 2011)
+Preparation of lessons, teaching and assessment of students aged 12 – 17 with beginner to advanced English, supervision at all times, participation and preparation of non-academic activities.
+### – as a reservations executive
+#### TUI, Chamonix, France (Oct 2010-Apr 2011)
+Coordination of communication, in English and French, between UK and Ireland-based agents and accommodation providers in the Alps and Pyrenees.
+### – as a shop assistant
+#### Anthonioz Ski, Samoëns, France (Jan-Apr 2009)
+Providing customers of various nationalities with help and advice when buying skiing equipment and accessories. French was the working language and the most common language spoken with clients.
+
 ## Languages
 Native: English  
 Fluent: Russian, French, Spanish  
