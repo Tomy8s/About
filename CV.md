@@ -25,6 +25,7 @@ Prorgamming skills:
 Development skills:
 + Pair Programming
 + Team-work
++ Test Driven Design
 + SOLID principles
 + Agile pronciples
 + Quickly learning new technologies
