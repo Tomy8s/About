@@ -1,6 +1,6 @@
 # CV
 
-## Enthusiastic, Motivated Developer looking for opportunities to code.
+## Enthusiastic, Motivated Developer looking for the opportunity to code.
 
 <t.w.yates@hotmail.co.uk>  
 [tomy8s.herokuapp.com](tomy8s.herokuapp.com)  
