@@ -29,6 +29,14 @@ Development skills:
 + Agile pronciples
 + Quickly learning new technologies
 
+### Projects
+
+Project link | Technologies used | New skills gained
+-|-|-
+[Boris bikes](https://github.com/Tomy8s/boris-bikes) | Ruby | OOP, Pair programming
+[Oystercard](https://github.com/Tomy8s/oystercard) | Ruby, Rspec | TDD
+
+
 ## Self-learning
 
 I have taken many online courses since September 2015, on topics such as: Ruby, Rails, Python, HTML, CSS, JavaScript, PHP, SQL and Git. For a full list [click here](self-learning.md).
