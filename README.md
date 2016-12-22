@@ -22,7 +22,7 @@ Intensive course focusing on the principles of programming and development. Skil
 In chronological order from oldest to newest. Many of the skills I gained were again practiced at later stages.
 
 |Project Link | Main Technologies Used | New Skills Gained |  
-|-|-|-|  
+|-------------|------------------------|-------------------|  
 |[Boris bikes](https://github.com/Tomy8s/boris-bikes) | **Ruby** | OOP, Pair programming, Agile, Git |  
 |[Oystercard](https://github.com/Tomy8s/oystercard) | Ruby, **Rspec** | TDD |  
 |[World Wide Web Wars](https://github.com/Tomy8s/world_wide_web_wars) | Ruby, **Sinatra**, Repec, **Capybara** | Web-apps |  
