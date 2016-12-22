@@ -21,18 +21,18 @@ Intensive course focusing on the principles of programming and development. Skil
 ### Projects
 In chronological order from oldest to newest. Many of the skills I gained were again practiced at later stages.
 
-Project Link | Main Technologies Used | New Skills Gained
--|-|-
-[Boris bikes](https://github.com/Tomy8s/boris-bikes) | **Ruby** | OOP, Pair programming, Agile, Git
-[Oystercard](https://github.com/Tomy8s/oystercard) | Ruby, **Rspec** | TDD
-[World Wide Web Wars](https://github.com/Tomy8s/world_wide_web_wars) | Ruby, **Sinatra**, Repec, **Capybara** | Web-apps
-[Bookmark Manager](https://github.com/Tomy8s/bookmark_manager) | Ruby, Sinatra, Rspec, **PostgreSQL**, **DataMapper** | SQL, Relational databases, ORM
-[Thermostat](https://github.com/Tomy8s/thermostat) | **JavaScript**, **JQuery**, **AJAX**, **Jasmine**, **JSON** | Learning another language, prototypal languages
-[airb-b](https://github.com/Tomy8s/airb-b)* | Ruby, Sinatra, Jquery, **PostgreSQL**, **DataMapper**, Rspec, Capybara, **Waffle.io** | Teamwork
-[News App](https://github.com/Tomy8s/news_app) | Javascript | Single Page Apps, The Module Pattern, 3rd party APIs
-[Kelp](https://github.com/Tomy8s/kelp) | Ruby, **Rails**, PostgreSQL, **ActiveRecord** | MVC
-[To Do](https://github.com/Tomy8s/todojs)* | **MongoDB**, **Mongoose**, **Express**, **Angular**, **Node.js**, **Mocha**, **Zombie.js**, Waffle.io | Non-relational databses, Front-end MVC
-[Music Mates](https://github.com/Tomy8s/music_mates)* | **Meteor.js**, MongoDB, Mocha, **Chimp**, Waffle.io | Project management
+Project Link | Main Technologies Used | New Skills Gained |
+-|-|-|
+[Boris bikes](https://github.com/Tomy8s/boris-bikes) | **Ruby** | OOP, Pair programming, Agile, Git |
+[Oystercard](https://github.com/Tomy8s/oystercard) | Ruby, **Rspec** | TDD |
+[World Wide Web Wars](https://github.com/Tomy8s/world_wide_web_wars) | Ruby, **Sinatra**, Repec, **Capybara** | Web-apps |
+[Bookmark Manager](https://github.com/Tomy8s/bookmark_manager) | Ruby, Sinatra, Rspec, **PostgreSQL**, **DataMapper** | SQL, Relational databases, ORM |
+[Thermostat](https://github.com/Tomy8s/thermostat) | **JavaScript**, **JQuery**, **AJAX**, **Jasmine**, **JSON** | Learning another language, prototypal languages |
+[airb-b](https://github.com/Tomy8s/airb-b)* | Ruby, Sinatra, Jquery, **PostgreSQL**, **DataMapper**, Rspec, Capybara, **Waffle.io** | Teamwork |
+[News App](https://github.com/Tomy8s/news_app) | Javascript | Single Page Apps, The Module Pattern, 3rd party APIs |
+[Kelp](https://github.com/Tomy8s/kelp) | Ruby, **Rails**, PostgreSQL, **ActiveRecord** | MVC |
+[To Do](https://github.com/Tomy8s/todojs)* | **MongoDB**, **Mongoose**, **Express**, **Angular**, **Node.js**, **Mocha**, **Zombie.js**, Waffle.io | Non-relational databses, Front-end MVC |
+[Music Mates](https://github.com/Tomy8s/music_mates)* | **Meteor.js**, MongoDB, Mocha, **Chimp**, Waffle.io | Project management |
 
 
 ## Self-learning
