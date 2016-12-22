@@ -33,7 +33,8 @@ In chronological order from oldest to newest. Many of the skills I gained were a
 |[Kelp](https://github.com/Tomy8s/kelp) | Ruby, **Rails**, PostgreSQL, **ActiveRecord** | MVC |  
 |[To Do](https://github.com/Tomy8s/todojs)* | **MongoDB**, **Mongoose**, **Express**, **Angular**, **Node.js**, **Mocha**, **Zombie.js**, Waffle.io | Non-relational databses, Front-end MVC |  
 |[Music Mates](https://github.com/Tomy8s/music_mates)* | **Meteor.js**, MongoDB, Mocha, **Chimp**, Waffle.io | Project management |  
-
+All projects, but the first two, used HTML and CSS.
+*Project in group of four, all decisions aroung functionality, planning and implementation taken by us, without instruction from Makers Academy
 
 ## Self-learning
 I have taken many online courses since September 2015, on topics such as: Ruby, Rails, Python, HTML, CSS, JavaScript, PHP, SQL and Git. For a full list [click here](self-learning.md).
