@@ -19,7 +19,6 @@ I am looking for a position in a backend/more technical role.
 Intensive course focusing on the principles of programming and development. Skills gained include:
 
 ### Projects
-
 In chronological order from oldest to newest. Many of the skills I gained were again practiced at later stages.
 
 Project Link | Main Technologies Used | New Skills Gained
@@ -37,7 +36,6 @@ Project Link | Main Technologies Used | New Skills Gained
 
 
 ## Self-learning
-
 I have taken many online courses since September 2015, on topics such as: Ruby, Rails, Python, HTML, CSS, JavaScript, PHP, SQL and Git. For a full list [click here](self-learning.md).
 
 ## Formal Education
@@ -81,9 +79,30 @@ Providing customers of various nationalities with help and advice when buying sk
 ## Languages
 Native: English  
 Fluent: Russian, French, Spanish  
-Conversational: Slovene  
-Elementary: German
+Elementary: German, Slovene 
+
 ## Driving
-Full, clean class B UK driving licence since 2010
+Access to own transprt, full, clean class B UK driving licence since 2010
+
 ## Interests
 Mountain biking, Skiing (Slalom, off-piste, cross-country), playing the bassoon and piano
+
+## Subscriptions
+Computing
++ [The Ruby Rogues](https://devchat.tv/ruby-rogues) - weekly Ruby podcast
++ [JavaScript Jabber](https://devchat.tv/js-jabber) - weekly JavaScript podcast
++ [The PHP Roundtable](https://www.phproundtable.com/) - approx. monthly PHP podcast
++ [Shoptalk Show](http://shoptalkshow.com/) - weekly Front-end podcast
++ [Computerphile](https://www.youtube.com/user/Computerphile) - Youtube channel  
+
+Other
++ [Freakanomics Radio](http://freakonomics.com/archive/) - weekly podcast focussing on unusual economic topics
++ [More or Less](http://www.bbc.co.uk/programmes/b006qshd) - weekly BBC 4/Open University radio show/podcast looking into dubious statistics in the media
++ [99% invisible](http://99percentinvisible.org/) - weekly podcast looking into the story of things we take for granted
+
+
+
+
+## Meetups and Conferences
++ [LRUG](http://lrug.org/) - I have attended several monthly meetups since June 2016.
++ [Brighton Ruby 2016](https://brightonruby.com/)
