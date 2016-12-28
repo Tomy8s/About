@@ -37,3 +37,5 @@ Click on the course names for more information about them.
 ### Git
 [Git Started with GitHub](https://stackskills.com/p/git-started-with-github) – [Stackskills.com](https://stackskills.com/)  
 [Command Line Essentials: Git Bash for Windows](https://stackskills.com/p/git-bash) – [Stackskills.com](https://stackskills.com/)  
+### R
+[Big Data](https://www.futurelearn.com/courses/big-data/) - [Future Learn](https://www.futurelearn.com/profiles/1254061)

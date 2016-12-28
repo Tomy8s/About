@@ -37,7 +37,7 @@ All projects, but the first two, used HTML and CSS.
 *Project in group of four, all decisions aroung functionality, planning and implementation taken by us, without instruction from Makers Academy
 
 ## Self-learning
-I have taken many online courses since September 2015, on topics such as: Ruby, Rails, Python, HTML, CSS, JavaScript, PHP, SQL and Git. For a full list [click here](self-learning.md).
+I have taken many online courses since September 2015, on topics such as: Ruby, Rails, Python, HTML, CSS, JavaScript, PHP, SQL, R and Git. For a full list [click here](self-learning.md).
 
 ## Formal Education
 ### Privet Language School, Kaliningrad, Russia (Aug 2012 and Aug 2014)
@@ -86,7 +86,7 @@ Elementary: German, Slovene
 Access to own transprt, full, clean class B UK driving licence since 2010
 
 ## Interests
-Mountain biking, Skiing (Slalom, off-piste, cross-country), playing the bassoon and piano
+Mountain biking, Skiing (Slalom, off-piste, cross-country), playing the bassoon and piano, Arduino
 
 ## Subscriptions
 Computing
