@@ -27,7 +27,7 @@ In chronological order from oldest to newest. Many of the skills I gained were a
 |Oystercard \| [source](https://github.com/Tomy8s/oystercard) | Ruby, **Rspec** | TDD |  
 |World Wide Web Wars \| [source](https://github.com/Tomy8s/world_wide_web_wars) | Ruby, **Sinatra**, Repec, **Capybara** | Web-apps |  
 |Bookmark Manager \| [source](https://github.com/Tomy8s/bookmark_manager) | Ruby, Sinatra, Rspec, **PostgreSQL**, **DataMapper** | SQL, Relational databases, ORM |  
-|[Thermostat](http://tomy8s.herokuapp.com/projects/thermostat) \| [source](https://github.com/Tomy8s/thermostat)    [Bowling Challenge](http://tomy8s.herokuapp.com/projects/bowling) \| [source](https://github.com/Tomy8s/bowling-challenge) | **JavaScript**, **JQuery**, **AJAX**, **Jasmine**, **JSON** | Learning another language, prototypal languages |  
+|[Thermostat](http://tomy8s.herokuapp.com/projects/thermostat) \| [source](https://github.com/Tomy8s/thermostat), [Bowling Challenge](http://tomy8s.herokuapp.com/projects/bowling) \| [source](https://github.com/Tomy8s/bowling-challenge) | **JavaScript**, **JQuery**, **AJAX**, **Jasmine**, **JSON** | Learning another language, prototypal languages |  
 |[airb-b](http://airbminusb.herokuapp.com/) \| [source](https://github.com/Tomy8s/airb-b)* | Ruby, Sinatra, Jquery, **PostgreSQL**, **DataMapper**, Rspec, Capybara, **Waffle.io** | Teamwork |  
 |News App \| [source](https://github.com/Tomy8s/news_app) | Javascript | Single Page Apps, The Module Pattern, 3rd party APIs |  
 |Kelp \| [source](https://github.com/Tomy8s/kelp) | Ruby, **Rails**, PostgreSQL, **ActiveRecord** | MVC |  
